@@ -2114,6 +2114,7 @@ a.metaportal_fn_videobutton:hover .icon {
   -o-flex-direction: column;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 .metaportal_fn_leftnav .nav_holder {
   padding: 73px 0 64px;
